@@ -4,10 +4,28 @@
     box-sizing: border-box;
     background-color: rgb(255,255,255);
 }
-#Header{
+#total_header{
     height: 60px;
     width: 100%;
     background-color: rgb(255,255,255);
+}
+#header{
+    height: 60px;
+    width: 100%;
+    background-color: rgb(255,255,255);
+}
+.logo{
+    position: absolute;
+    left: 100px;
+    top: 15px;
+}
+#Header h3{
+    position: absolute;
+    margin-top: 9px;
+    margin-left: 50px;
+    font-size: 40px;
+    color: #ff5b00;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 #First_Content{
@@ -1365,7 +1383,7 @@ h2{
  */
 #Discover .title h1{
     position: absolute;
-    margin-top: 2050px;
+    margin-top: 2030px;
     color: black;
     font-size: 35px;
     left: 115px;

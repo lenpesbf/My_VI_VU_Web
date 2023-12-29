@@ -160,11 +160,17 @@ h2{
 .Nav_p1 h3{
     font-size: 18px;
     padding-top: 8px;
+    color: black;
 }
 .Nav_p1 h4{
     padding-top: 3px;
     font-weight: 300;
     color: rgb(172, 170, 168);
+}
+.Nav_p1:hover{
+    transform: scale(1.05) ;
+    border: 1px solid rgb(152, 156, 146);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .Nav_p2{
     position: absolute;
@@ -191,11 +197,17 @@ h2{
 .Nav_p2 h3{
     font-size: 18px;
     padding-top: 8px;
+    color: black;
 }
 .Nav_p2 h4{
     padding-top: 3px;
     font-weight: 300;
     color: rgb(172, 170, 168);
+}
+.Nav_p2:hover{
+    transform: scale(1.05) ;
+    border: 1px solid rgb(152, 156, 146);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .Nav_p3{
     position: absolute;
@@ -222,11 +234,17 @@ h2{
 .Nav_p3 h3{
     font-size: 18px;
     padding-top: 8px;
+    color: black;
 }
 .Nav_p3 h4{
     padding-top: 3px;
     font-weight: 300;
     color: rgb(172, 170, 168);
+}
+.Nav_p3:hover{
+    transform: scale(1.05) ;
+    border: 1px solid rgb(152, 156, 146);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .Nav_p4{
     position: absolute;
@@ -253,11 +271,17 @@ h2{
 .Nav_p4 h3{
     font-size: 18px;
     padding-top: 8px;
+    color: black;
 }
 .Nav_p4 h4{
     padding-top: 3px;
     font-weight: 300;
     color: rgb(172, 170, 168);
+}
+.Nav_p4:hover{
+    transform: scale(1.05) ;
+    border: 1px solid rgb(152, 156, 146);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .Nav_p5{
     position: absolute;
@@ -284,11 +308,17 @@ h2{
 .Nav_p5 h3{
     font-size: 18px;
     padding-top: 8px;
+    color: black;
 }
 .Nav_p5 h4{
     padding-top: 3px;
     font-weight: 300;
     color: rgb(172, 170, 168);
+}
+.Nav_p5:hover{
+    transform: scale(1.05) ;
+    border: 1px solid rgb(152, 156, 146);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .Nav_p6{
     position: absolute;
@@ -315,11 +345,17 @@ h2{
 .Nav_p6 h3{
     font-size: 18px;
     padding-top: 8px;
+    color: black;
 }
 .Nav_p6 h4{
     padding-top: 3px;
     font-weight: 300;
     color: rgb(172, 170, 168);
+}
+.Nav_p6:hover{
+    transform: scale(1.05) ;
+    border: 1px solid rgb(152, 156, 146);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .Nav_p7{
     position: absolute;
@@ -346,11 +382,17 @@ h2{
 .Nav_p7 h3{
     font-size: 18px;
     padding-top: 8px;
+    color: black;
 }
 .Nav_p7 h4{
     padding-top: 3px;
     font-weight: 300;
     color: rgb(172, 170, 168);
+}
+.Nav_p7:hover{
+    transform: scale(1.05) ;
+    border: 1px solid rgb(152, 156, 146);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 /* -------------------------------------------------- */
 .Experience h1{
